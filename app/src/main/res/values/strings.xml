@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">loginbl</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_country">País</string>
+    <string name="hint_gender">Género</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_register">Registrarse</string>
+    <string name="ordenar_por_nombre">Ordenar por Nombre</string>
+    <string name="ordenar_por_fecha">Ordenar por Fecha</string>
+    <string name="cultivo_nombre">Nombre del Cultivo</string>
+    <string name="cultivo_cantidad">Cantidad:</string>
+    <string name="cultivo_fecha">Fecha:</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+
+
+</resources>

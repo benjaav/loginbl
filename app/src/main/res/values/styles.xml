@@ -1,0 +1,10 @@
+<resources>
+    <!-- Estilo principal de botones -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">#9CEC32</item> <!-- Fondo del botón -->
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textColor">#FFFFFF</item> <!-- Texto blanco -->
+        <item name="android:background">@drawable/rounded_button</item> <!-- Fondo redondeado -->
+    </style>
+</resources>

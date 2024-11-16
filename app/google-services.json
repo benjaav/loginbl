@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779647040625",
+    "project_id": "loginbl-791d5",
+    "storage_bucket": "loginbl-791d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779647040625:android:67f4be507a4fe75e77efd0",
+        "android_client_info": {
+          "package_name": "com.example.loginbl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBOWpjnV6g6Upt6ZW7RLMcfnNmxswZRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
